@@ -1,5 +1,4 @@
-# My_Website
-## My collection of interesting links
+
 ![IMG_2678](IMG_2678.jpg)
 
 # QUANTITATIVE FINANCE
