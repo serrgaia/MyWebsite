@@ -1,7 +1,7 @@
-# mywebsite
-My collection of interesting links
+# My_Website
+## My collection of interesting links
 
-QUANTITATIVE FINANCE
+# QUANTITATIVE FINANCE
 
 1. W.Boenkost, W. Schmidt\
    Cross Currency Swap Valuation\
