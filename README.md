@@ -3,7 +3,7 @@
 
 # QUANTITATIVE FINANCE
 
-Links to articles related to what I am working on - or what I am curious about\
+What I am working on - or what I am curious about\
 [QUANTITATIVE FINANCE ](quantfinance.md)
 
 # CLASSICAL MUSIC
@@ -18,5 +18,5 @@ My learning hub!\
 
 # QUANTUM COMPUTING
 
-Interesting articles\
+WooW!\
 [QUANTUM COMPUTING](qc.md)
