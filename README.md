@@ -14,7 +14,7 @@ Magazines, new albums, concerts,my favorite pianists..\
 # DATA SCIENCE and MACHINE LEARNING
 
 My learning hub!\
-[DATA SCIENCE](DATASCIENCE.md)
+[DATA SCIENCE](DataScience.md)
 
 # QUANTUM COMPUTING
 
