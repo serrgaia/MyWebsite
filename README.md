@@ -2,13 +2,21 @@
 ![IMG_2678](IMG_2678.jpg)
 
 # QUANTITATIVE FINANCE
+Links to articles related to what I am working on - or what I am curious about
 
-1. W.Boenkost, W. Schmidt\
-   Cross Currency Swap Valuation\
-   https://www.econstor.eu/bitstream/10419/40176/1/481304045.pdf
-
+[QUANTITATIVE FINANCE Page](quantfinance.md)
 
 # CLASSICAL MUSIC
+Magazines, new albums, concerts,my favorite pianists..
+
 [CLASSICAL MUSIC](classicalmusic.md)
-1. BBC Classical music magazine\
-    https://www.classical-music.com/
+
+# DATA SCIENCE and MACHINE LEARNING
+My learning hub!
+
+[DATA SCIENCE](DATASCIENCE.md)
+
+# QUANTUM COMPUTING
+Interesting articles
+
+[QUANTUM COMPUTING](qc.md)
