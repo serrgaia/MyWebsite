@@ -3,20 +3,20 @@
 
 # QUANTITATIVE FINANCE
 
-Links to articles related to what I am working on - or what I am curious about
+Links to articles related to what I am working on - or what I am curious about\
 [QUANTITATIVE FINANCE ](quantfinance.md)
 
 # CLASSICAL MUSIC
 
-Magazines, new albums, concerts,my favorite pianists..
+Magazines, new albums, concerts,my favorite pianists..\
 [CLASSICAL MUSIC](classicalmusic.md)
 
 # DATA SCIENCE and MACHINE LEARNING
 
-My learning hub!
+My learning hub!\
 [DATA SCIENCE](DATASCIENCE.md)
 
 # QUANTUM COMPUTING
 
-Interesting articles
+Interesting articles\
 [QUANTUM COMPUTING](qc.md)
