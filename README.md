@@ -6,6 +6,12 @@
 What I am working on - or what I am curious about\
 [QUANTITATIVE FINANCE ](quantfinance.md)
 
+# MATHS
+
+Calculus, Linear Algebra,...\
+[MATHS ](math.md)
+
+
 # CLASSICAL MUSIC
 
 Magazines, new albums, concerts,my favorite pianists..\
