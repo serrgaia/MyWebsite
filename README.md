@@ -12,6 +12,10 @@ Calculus, Linear Algebra,...\
 [MATHS ](math.md)
 
 
+# OPERATIONS RESEARCH
+Papers, Books...\
+[OR ](OR.md)
+
 # CLASSICAL MUSIC
 
 Magazines, new albums, concerts,my favorite pianists..\
