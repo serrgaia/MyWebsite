@@ -8,3 +8,6 @@
 
 3. Yuja Wang\
     http://yujawang.com/
+    
+    Sonatas & Etudes, 2009:\
+    https://open.spotify.com/album/2K2tZZck34aHG2xjzACHDm?si=MXXet52fR2CxfJmur9ckAw
