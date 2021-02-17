@@ -28,5 +28,5 @@ My learning hub!\
 
 # QUANTUM COMPUTING
 
-WooW!\
+A close look at the future:\
 [QUANTUM COMPUTING](qc.md)
