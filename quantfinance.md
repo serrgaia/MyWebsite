@@ -9,6 +9,10 @@
 2. Hagan et al.\
    Managing smile risk\
    http://janroman.dhis.org/finance/Volatilities/Volatility%20smile.pdf
+   
+3. F. Longstaff, E.Schwartz \
+   Valuing American Options by Simulation: A Simple Least-Squares Approach \
+   https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf  
 
 ## COUNTERPARTY CREDIT RISK
 
