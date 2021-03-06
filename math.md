@@ -1,8 +1,8 @@
 #MY MATHS
 
 * Linear Algebra
- 1. G. Strang, Linear Algebra\
-    http://math.mit.edu/~gs/linearalgebra/
+ 1. [G. Strang, Linear Algebra]\
+   ( http://math.mit.edu/~gs/linearalgebra/)
     
  2. Matrix representation of geometric transformation\
     https://uk.mathworks.com/help/images/matrix-representation-of-geometric-transformations.html 
