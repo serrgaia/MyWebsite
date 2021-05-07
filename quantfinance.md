@@ -16,5 +16,10 @@
 
 ## COUNTERPARTY CREDIT RISK
 
-3. M.Pykthin,S.Zhu\
+1. M.Pykthin,S.Zhu\
   [A guide to modelling Counterparty Credit Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1032522)
+
+## QUANTITATIVE RISK MANAGEMENT
+
+1.P.EMBRECHTS, A. MCNEIL, AND D.STRAUMANN\
+  [Correlation and dependence in risk managemente: properties and pitfalls](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.71.1637&rep=rep1&type=pdf)
