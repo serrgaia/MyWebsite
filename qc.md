@@ -5,3 +5,5 @@
 2. https://www.ft.com/content/5c31399c-ca6e-11e9-af46-b09e8bfe60c0
 
 3. https://www.risk.net/derivatives/7729656/goldman-ibm-lay-out-quantum-roadmap-for-derivatives-pricing
+
+4. https://www.quantamagazine.org/computings-search-for-the-best-quantum-questions-20160602/
