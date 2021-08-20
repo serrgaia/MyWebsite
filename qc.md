@@ -8,4 +8,4 @@
 
 4. https://www.quantamagazine.org/computings-search-for-the-best-quantum-questions-20160602/
 
-5.https://arxiv.org/pdf/2105.09100.pdf?utm_source=thenewstack&utm_medium=website&utm_campaign=platform
+5. https://arxiv.org/pdf/2105.09100.pdf?utm_source=thenewstack&utm_medium=website&utm_campaign=platform
